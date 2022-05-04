@@ -1,0 +1,9 @@
+Git clone: clonar o repositorio remoto
+
+cd d+tab
+
+Git status
+
+Git add .
+
+Git commit -m "mensaje"
